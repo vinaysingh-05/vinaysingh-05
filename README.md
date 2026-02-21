@@ -15,8 +15,8 @@
 </p>
 
 ---
-
-# 🛠 Tech Stack
+<p align="center">
+  🛠 TECH-LAB
 
 <table align="center" width="80%">
   <tr>
@@ -89,7 +89,7 @@
 </table>
 
 ---
-
+</p>
 
 
 <p align="center">
