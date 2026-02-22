@@ -76,6 +76,8 @@
       <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
       <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
       <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+       <img src="https://skillicons.dev/icons?i=postman" title="postman"/>
+       <img src="https://skillicons.dev/icons?i=github" title="github"/>
     </td>
   </tr>
   <tr>
